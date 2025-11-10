@@ -8,9 +8,10 @@ A simple and modern web platform to showcase **luxury and sports cars** with smo
 
 - React + TypeScript  
 - Tailwind CSS  
-- Vite  
-- shadcn/ui  
-- Three.js (optional)
+- Vite    
+- Html 
+- Css
+- Java Script 
 
 ---
 
