@@ -1,12 +1,10 @@
-Here’s your updated **Speed Luxe Showcase** description in the same detailed and professional format as your *Shivaay Fashion Store* example 👇
-
 ---
 
-# 🚀 Speed Luxe Showcase
+# 🚀 The_car_hub
 
 ## Overview
 
-👇 **Speed Luxe Showcase** is a sleek and dynamic web platform built to highlight **luxury and sports cars** with immersive visuals, smooth animations, and modern 3D effects. ✨ It offers visitors a premium browsing experience, combining elegance and performance — just like the cars it features.
+👇 **The_car_hub** is a sleek and dynamic web platform built to highlight **luxury and sports cars** with immersive visuals, smooth animations, and modern 3D effects. ✨ It offers visitors a premium browsing experience, combining elegance and performance — just like the cars it features.
 
 ---
 
